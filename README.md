@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brandon Jiagge</h1>
-<h3 align="center">A 15-year-old, aspiring software engineer.</h3>
+<h1 align="center">Hi 👋, I'm Brandon Elikem Jiagge</h1>
+<h3 align="center">A 15-year-old, software engineer/developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjiagge&label=Profile%20views&color=0e75b6&style=flat" alt="mrjiagge" /> </p>
 
